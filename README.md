@@ -13,8 +13,8 @@ What hasn’t changed in this transition is how I work: with sincerity, persever
 
 - 🔭 I’m currently working on my BI Analyst portfolio.
 - 🌱 I’m currently improving my Data skills through getting better at different platforms and formulas.
-- 👯 I’m looking to collaborate on different Data Analyst platfomrs.
-- 🤔 I’m looking for help with mastering processes.
+- 👯 I’m looking to collaborate on different Data Analyst platfoms.
+- 🤔 Constantly learning to master processes.
 - 💬 Ask me about ...[SPRINT 5 Avraham Perton.zip](https://github.com/user-attachments/files/23586803/SPRINT.5.Avraham.Perton.zip)
 📄 Know about my experiences https://docs.google.com/document/d/1K868FZVR5qhWU7NkCVkas62GswuJi79l57LGIeUcpFE/edit?usp=sharing
 - 📫 How to reach me: pertonavraham@gmail.com
