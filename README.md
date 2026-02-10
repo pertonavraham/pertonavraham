@@ -16,7 +16,8 @@ What hasn’t changed in this transition is how I work: with sincerity, persever
 - 👯 I’m looking to collaborate on different Data Analyst platfoms.
 - 🤔 Constantly learning to master processes.
 - 💬 Ask me about ...[SPRINT 5 Avraham Perton.zip](https://github.com/user-attachments/files/23586803/SPRINT.5.Avraham.Perton.zip)
-- image <img width="1290" height="489" alt="image" src="https://github.com/user-attachments/assets/a180ce38-23c4-452a-82d8-5a6f7a478447" />
+- https://public.tableau.com/views/Sprint5TripleTenPojectAvrahamPerton/DashboardReturnRate_?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+-  image <img width="1170" height="585" alt="image" src="https://github.com/user-attachments/assets/f3f2a1b2-7966-42e5-8edb-c8eebadb1c79" />
 
 📄 Know about my experiences https://docs.google.com/document/d/1K868FZVR5qhWU7NkCVkas62GswuJi79l57LGIeUcpFE/edit?usp=sharing
 - 📫 How to reach me: pertonavraham@gmail.com
